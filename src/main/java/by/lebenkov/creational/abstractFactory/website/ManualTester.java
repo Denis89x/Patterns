@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory.website;
+package by.lebenkov.creational.abstractFactory.website;
 
-import by.lebenkov.creational.abstrackFactory.Tester;
+import by.lebenkov.creational.abstractFactory.Tester;
 
 public class ManualTester implements Tester {
     @Override

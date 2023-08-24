@@ -1,9 +1,9 @@
-package by.lebenkov.creational.abstrackFactory.banking;
+package by.lebenkov.creational.abstractFactory.banking;
 
-import by.lebenkov.creational.abstrackFactory.Developer;
-import by.lebenkov.creational.abstrackFactory.Manager;
-import by.lebenkov.creational.abstrackFactory.ProjectTeamFactory;
-import by.lebenkov.creational.abstrackFactory.Tester;
+import by.lebenkov.creational.abstractFactory.Developer;
+import by.lebenkov.creational.abstractFactory.Manager;
+import by.lebenkov.creational.abstractFactory.ProjectTeamFactory;
+import by.lebenkov.creational.abstractFactory.Tester;
 
 public class BankingTeamFactory implements ProjectTeamFactory {
     @Override

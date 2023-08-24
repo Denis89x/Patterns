@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory.banking;
+package by.lebenkov.creational.abstractFactory.banking;
 
-import by.lebenkov.creational.abstrackFactory.Tester;
+import by.lebenkov.creational.abstractFactory.Tester;
 
 public class QATester implements Tester {
     @Override

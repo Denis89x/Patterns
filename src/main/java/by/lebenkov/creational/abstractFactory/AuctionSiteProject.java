@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory;
+package by.lebenkov.creational.abstractFactory;
 
-import by.lebenkov.creational.abstrackFactory.website.WebsiteTeamFactory;
+import by.lebenkov.creational.abstractFactory.website.WebsiteTeamFactory;
 
 public class AuctionSiteProject {
     public static void main(String[] args) {

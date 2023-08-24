@@ -1,4 +1,4 @@
-package by.lebenkov.creational.abstrackFactory;
+package by.lebenkov.creational.abstractFactory;
 
 public interface ProjectTeamFactory {
     Developer getDeveloper();

@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory.website;
+package by.lebenkov.creational.abstractFactory.website;
 
-import by.lebenkov.creational.abstrackFactory.Manager;
+import by.lebenkov.creational.abstractFactory.Manager;
 
 public class WebsitePM implements Manager {
     @Override

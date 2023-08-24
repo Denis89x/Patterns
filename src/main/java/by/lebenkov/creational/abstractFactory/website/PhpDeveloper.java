@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory.website;
+package by.lebenkov.creational.abstractFactory.website;
 
-import by.lebenkov.creational.abstrackFactory.Developer;
+import by.lebenkov.creational.abstractFactory.Developer;
 
 public class PhpDeveloper implements Developer {
     @Override

@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory;
+package by.lebenkov.creational.abstractFactory;
 
-import by.lebenkov.creational.abstrackFactory.banking.BankingTeamFactory;
+import by.lebenkov.creational.abstractFactory.banking.BankingTeamFactory;
 
 public class SuperBankSystem {
     public static void main(String[] args) {

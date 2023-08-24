@@ -1,6 +1,6 @@
-package by.lebenkov.creational.abstrackFactory.banking;
+package by.lebenkov.creational.abstractFactory.banking;
 
-import by.lebenkov.creational.abstrackFactory.Developer;
+import by.lebenkov.creational.abstractFactory.Developer;
 
 public class JavaDeveloper implements Developer {
     @Override
